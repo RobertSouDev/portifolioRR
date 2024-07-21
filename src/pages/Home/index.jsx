@@ -1,8 +1,11 @@
+import CardMain from "../../components/CardMain";
+import Main from "../../components/Main/Index";
 
 function Home() {
     return (  
         <>
-            Home
+            <Main/>
+            <CardMain/>
         </>
     );
 }

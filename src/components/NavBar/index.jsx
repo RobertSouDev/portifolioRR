@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function NavBar() {
     return (
-        <nav className=" fixed top-0 left-0 flex  items-center justify-around w-full h-40 shadow-md  ">
+        <nav className=" flex  items-center justify-around w-full h-40 shadow-md  ">
            <ul className="flex w-[20rem ] justify-around">
                 <li>
                 <Link to="/" className="mx-8 text-gray-500 text-md font-serif hover:text-gray-950"> INÍCIO</Link>
