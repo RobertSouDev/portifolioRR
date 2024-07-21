@@ -3,7 +3,6 @@ import Home from "./pages/Home";
 import Portifolio from "./pages/Portifolio";
 import Sobre from "./pages/Sobre";
 import NoPage from "./pages/NoPage";
-import Layout from "./pages/Layout";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 
