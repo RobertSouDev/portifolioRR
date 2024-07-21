@@ -7,6 +7,10 @@ function Home() {
             <Main/>
    
             <CardMain/>
+            <CardMain/>
+
+            <CardMain/>
+
         </>
     );
 }
