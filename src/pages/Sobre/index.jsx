@@ -1,7 +1,9 @@
 function Sobre() {
     return ( 
         <>
-            sobre
+           <div className="  w-full h-[55rem] flex items-center justify-center">
+                    <h1>Mainha</h1>
+           </div>
         </>
     );
 }
