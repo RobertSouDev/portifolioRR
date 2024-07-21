@@ -9,8 +9,8 @@ function Sobre() {
                 </div>
                 <div className=" w-[50%] h-[100%] flex items-center justify-center p-8">
                     <div className="max-w-4xl mx-auto space-y-6">
-                        <h1 className="text-4xl font-bold">ALEX SCHMITZ</h1>
-                        <h2 className="text-2xl font-semibold">SOBRE ALEX SCHMITZ</h2>
+                        <h1 className="text-4xl font-bold">Robert Roger</h1>
+                        <h2 className="text-2xl font-semibold">SOBRE </h2>
                         <p className="text-lg">
                             Sou um parágrafo. Clique aqui para editar e adicionar o seu próprio texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim e você poderá adicionar o seu próprio conteúdo e trocar fontes. Sou um ótimo lugar para você contar sua história e permitir que seus clientes saibam um pouco mais sobre você.
                         </p>
