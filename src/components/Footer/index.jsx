@@ -3,7 +3,7 @@ import { FaWhatsapp, FaLinkedinIn, FaGithub } from "react-icons/fa6";
 
 function Footer() {
     return (
-        <div className="w-full flex items-center flex-col gap-10">
+        <div className="w-full flex items-center flex-col gap-10 ">
             <footer className="w-[90%] h-[10vh] flex justify-around shadow-top p-10">
                 <div className="w-[40rem] h-[5rem]">
                     <h6 className="cormorant-garamond-regular font-serif text-gray-500 text-base">

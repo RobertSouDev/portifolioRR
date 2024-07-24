@@ -1,6 +1,6 @@
 function Sobre() {
     return ( 
-        <div className="w-full h-auto flex flex-col md:flex-row items-center justify-center">
+        <div className="w-full min-h-[90vh] flex flex-col md:flex-row items-center justify-center">
             <div className="w-[80%] h-auto md:h-[80%] flex flex-col md:flex-row">
                 {/* Primeira Div */}
                 <div className="w-full md:w-[50%] h-[100%] flex justify-center items-center">
