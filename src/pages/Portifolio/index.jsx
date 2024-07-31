@@ -17,8 +17,7 @@ function Portifolio() {
                         Sou um parágrafo. Clique aqui para editar e adicionar 
                         o seu próprio texto. É fácil! Basta clicar em "Editar Texto" 
                         ou clicar duas vezes sobre mim e você poderá adicionar o seu próprio 
-                        conteúdo e trocar fontes. Sou um ótimo lugar para você contar sua 
-                        história e permitir que seus clientes saibam um pouco mais sobre você.
+                    
                     </p>
                 </div>
             </div>

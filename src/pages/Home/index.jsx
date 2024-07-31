@@ -6,10 +6,8 @@ function Home() {
         <>
             <Main/>
    
-            <CardMain/>
-            <CardMain/>
+            <CardMain title="vamos cver" subtitle="teste00" img="src/assets/img/img1.jpg"/>
 
-            <CardMain/>
 
         </>
     );
